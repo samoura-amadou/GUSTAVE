@@ -4,7 +4,7 @@
 
 2-Installer python et verrifier bien que ça marche et tout les modules qui y sont. 
 
-2-Telecharger le fichier GUSTAVE qui contient l'ensemble des attendus: les attendus correspondent aux differents fichiers dans le dossier GUSTAVE . 
+2-Telecharger le dossier GUSTAVE qui contient l'ensemble des attendus: les attendus correspondent aux differents fichiers dans le dossier GUSTAVE . 
 
 - L’algorithme en pseudo-code (algorithme-pseudo-code.txt)
 
