@@ -1,0 +1,22 @@
+# SAMOURA Amadou 'Developpeur Informatique '
+# Exercice Technique GUSTAVELes
+
+Les données indiqué dans le tableau :
+
+Tâche 1 : Début = 9h00, Fin = 11h00
+Tâche 2 : Début = 13h00, Fin = 15h00
+Tâche 3 : Début = 8h15, Fin = 10h15
+Tâche 4 : Début = 14h30, Fin = 16h30
+Tâche 5 : Début = 15h10, Fin = 17h10
+Tâche 6 : Début = 12h30, Fin = 14h30
+Tâche 7 : Début = 13h40, Fin = 15h40
+Tâche 8 : Début = 17h00, Fin = 19h00
+Tâche 9 : Début = 20h15, Fin = 22h15
+Tâche 10 : Début = 18h15, Fin = 20h15
+
+
+Résultat de l'algorithme :
+Trajet 1 : Tâche 1, Tâche 2, Tâche 3, Tâche 4, Tâche 5  (Temps total = 10 heures)
+Trajet 2 : Tâche 6, Tâche 7, Tâche 8, Tâche 9, Tâche 10 (Temps total = 10 heures)
+
+Nombre total de trajets : 2

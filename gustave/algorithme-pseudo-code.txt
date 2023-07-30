@@ -1,0 +1,31 @@
+# SAMOURA Amadou 'Developpeur Informatique '
+# Exercice Technique GUSTAVE
+
+
+Function trouver_trajets_optimises(liste_taches):
+    trajets_optimises = Liste vide
+
+    Tant que la liste des tâches n'est pas vide:
+        trajet_actuel = Liste vide
+        temps_restant_trajet_actuel = 30 minutes
+
+        Tant que liste_taches n'est pas vide et temps_restant_trajet_actuel > 0:
+            tache_optimale = null
+            distance_min = infini
+
+            Pour chaque tache dans liste_taches:
+                distance = temps_restant_trajet_actuel - tache.debut
+                Si distance >= 0 et distance < distance_min:
+                    distance_min = distance
+                    tache_optimale = tache
+
+            Si tache_optimale existe:
+                trajet_actuel.ajouter(tache_optimale)
+                liste_taches.retirer(tache_optimale)
+                temps_restant_trajet_actuel = temps_restant_trajet_actuel - distance_min
+
+        trajets_optimises.ajouter(trajet_actuel)
+
+    Renvoyer trajets_optimises
+Fin Fonction
+
