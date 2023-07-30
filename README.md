@@ -1,5 +1,4 @@
-# GUSTAVE
-EXERCICE TECHNIQUE : MODE USAGE
+# GUSTAVE : EXERCICE TECHNIQUE ( MODE USAGE )
 
 1-Telecharger et installer un editeur de text dans un environnement de systeme d'exploitation. 
 
